@@ -59,6 +59,9 @@ h2 {
 h1:hover, h2:hover{
     color: blue;
 }
+p:hover, th:hover {
+    background-color: white;
+}
 
 /* Education table styles */
 table {
